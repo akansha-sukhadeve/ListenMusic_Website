@@ -6,9 +6,6 @@ A website to listen to songs of your choice.
   <h3>ListenMusic</h3>
 </div>
 
-![license-shield] [![LinkedIn][linkedin-shield]][linkedin-url]
----
-
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary><h2>Table of Contents</h2></summary>
