@@ -35,6 +35,10 @@ A website to play songs of given choice
 4. PWA(Progressive web app).
 5. Responsive Website.
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[html]: https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html&logoColor=white
+[css]: https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css&logoColor=white
+[javascript]: https://img.shields.io/badge/js-f7df1e?style=for-the-badge&logo=js&logoColor=4FC08D
 
 <p align="right">(<a href="#readme-top">Back to top ⬆️</a>)</p>
 
