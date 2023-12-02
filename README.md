@@ -28,8 +28,7 @@ A website to listen to songs of your choice.
 A website to play songs of given choice
 
 ### Built With
-| ![HTML5][html] | ![CSS3][css] | ![JavaScript][javascript] |
-| --- | --- | --- |
+HTML CSS JAVASCRIPT
 
 ## Features
 1. You can play a song.
@@ -46,8 +45,3 @@ A website to play songs of given choice
 ```
 <p align="right">(<a href="#readme-top">Back to top ⬆️</a>)</p>
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[html]: https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html&logoColor=white
-[css]: https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css&logoColor=white
-[javascript]: https://img.shields.io/badge/js-f7df1e?style=for-the-badge&logo=js&logoColor=4FC08D
