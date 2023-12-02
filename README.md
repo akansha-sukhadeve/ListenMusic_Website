@@ -42,9 +42,5 @@ A website to play songs of given choice
 
 <p align="right">(<a href="#readme-top">Back to top ⬆️</a>)</p>
 
-## Link
-```
 
-```
-<p align="right">(<a href="#readme-top">Back to top ⬆️</a>)</p>
 
