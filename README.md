@@ -25,7 +25,8 @@ A website to listen to songs of your choice.
 A website to play songs of given choice
 
 ### Built With
-HTML CSS JAVASCRIPT
+| ![HTML5][html] | ![CSS3][css] | ![JavaScript][javascript] |
+| --- | --- | --- |
 
 ## Features
 1. You can play a song.
@@ -35,6 +36,7 @@ HTML CSS JAVASCRIPT
 5. Responsive Website.
 
 
+<p align="right">(<a href="#readme-top">Back to top ⬆️</a>)</p>
 
 ## Link
 ```
