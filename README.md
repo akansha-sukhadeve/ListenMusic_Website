@@ -1,4 +1,4 @@
-# ListenMusic_Website
+# Music player Website
 A website to listen to songs of your choice.
 <a name="readme-top"></a>
 
