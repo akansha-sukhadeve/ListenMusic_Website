@@ -5,10 +5,10 @@ A website to listen to songs of your choice.
 <div align="center">
   <h3>ListenMusic</h3>
 </div>
-<img align="left" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot1.png"  alt =" " style="border: solid 1px #d4d4d4" />
-<img align="right" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot2.png"  alt =" " style="border: solid 1px #d4d4d4" />
+<img align="left" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot1.png"  alt =" " style="border: solid 1px #d4d4d4" /> <img align="right" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot2.png"  alt =" " style="border: solid 1px #d4d4d4" />
   
-  
+
+  <br>
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary><h2>Table of Contents</h2></summary>
