@@ -12,7 +12,7 @@ A website to listen to songs of your choice.
   <br>
 <!-- TABLE OF CONTENTS -->
 
-  <h2>Table of Contents</h2>
+  <summary><h2>Table of Contents</h2></summary> 
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
