@@ -5,7 +5,8 @@ A website to listen to songs of your choice.
 <div align="center">
   <h3>ListenMusic</h3>
 </div>
-
+<img align="center" width="420" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshot1.png"  alt =" " style="border: solid 1px #d4d4d4" />
+  
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary><h2>Table of Contents</h2></summary>
