@@ -9,6 +9,7 @@ A website to listen to songs of your choice.
   
 
   <br>
+  <br>
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary><h2>Table of Contents</h2></summary>
