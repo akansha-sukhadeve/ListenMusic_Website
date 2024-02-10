@@ -12,16 +12,14 @@ A website to listen to songs of your choice.
   <br>
 <!-- TABLE OF CONTENTS -->
 
-  <summary><h2>Table of Contents</h2></summary> 
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-     
-      <a href="#built-with">Built With</a>
-      
-    </li>
-    <li><a href="#features">Features</a></li>
-    </ol>
+  <summary><h2>Table of Contents</h2></summary>
+  <ul>
+    <ol>
+      <li><a href="#about-the-project">About The Project</a></li>
+      <li><a href="#built-with">Built With</a></li>
+      <li><a href="#features">Features</a></li>
+  </ol>
+ </ul>
     
 
 
