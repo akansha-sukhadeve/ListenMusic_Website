@@ -11,7 +11,7 @@ A website to listen to songs of your choice.
   <br>
   <br>
 <!-- TABLE OF CONTENTS -->
-<details open>
+
   <summary><h2>Table of Contents</h2></summary>
   <ol>
     <li>
@@ -23,7 +23,7 @@ A website to listen to songs of your choice.
     <li><a href="#features">Features</a></li>
     
   </ol>
-</details>
+
 
 ## About The Project
 A website to play songs of given choice
