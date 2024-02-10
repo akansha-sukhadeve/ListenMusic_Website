@@ -13,7 +13,7 @@ A website to listen to songs of your choice.
 <!-- TABLE OF CONTENTS -->
 
   <summary><h2>Table of Contents</h2></summary>
-  <ol>
+  
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -22,7 +22,7 @@ A website to listen to songs of your choice.
     </li>
     <li><a href="#features">Features</a></li>
     
-  </ol>
+
 
 
 ## About The Project
