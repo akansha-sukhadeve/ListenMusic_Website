@@ -5,7 +5,9 @@ A website to listen to songs of your choice.
 <div align="center">
   <h3>ListenMusic</h3>
 </div>
-<img align="center" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot1.png"  alt =" " style="border: solid 1px #d4d4d4" /> <img align="center" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot2.png"  alt =" " style="border: solid 1px #d4d4d4" />
+<img align="center" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot1.png"  alt =" " style="border: solid 1px #d4d4d4" /> 
+<br>
+<img align="center" width="700px" src="https://github.com/akansha-sukhadeve/ListenMusic_Website/blob/master/screenshots/screenshot2.png"  alt =" " style="border: solid 1px #d4d4d4" />
   
 
   <br>
