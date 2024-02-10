@@ -29,7 +29,7 @@ A website to listen to songs of your choice.
 ## About The Project
 A website to play songs of given choice
 
-### Built With
+## Built With
 | ![HTML5][html] | ![CSS3][css] | ![JavaScript][javascript] |
 | --- | --- | --- |
 
